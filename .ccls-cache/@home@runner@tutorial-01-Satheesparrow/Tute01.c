@@ -5,8 +5,7 @@
 #include <stdio.h>
 
 int main() {
- // int a  = 4;
-  // test 
+
   return 0;
 }
 
