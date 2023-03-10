@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
- // testing 1233
+ // test
   return 0;
 }
 
