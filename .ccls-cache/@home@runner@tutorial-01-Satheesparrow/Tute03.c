@@ -13,7 +13,7 @@ sum = 1+2+3+...+10 = 55 */
 
 #include <stdio.h>
 int main() {
-  //testing
+  
   
   return 0;
 }

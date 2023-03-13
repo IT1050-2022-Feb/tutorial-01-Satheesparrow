@@ -11,7 +11,7 @@
 
 # #while IFS= read -r line; do echo "LINE: '${line}'"; done <<< "$x"
 
-#   #eval $ans
+#   #eval $an
 # }
 
 echo Which program do you want to run?
